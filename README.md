@@ -8,9 +8,9 @@ By [Jisoo Jeong](http://mipal.snu.ac.kr/index.php/Jisoo_Jeong), [Seungeui Lee](h
 We experimented with CSD using the RFCN pytorch framework. To use our model, complete the installation & preparation on the [RFCN pytorch homepage](https://github.com/princewang1994/R-FCN.pytorch)
 
 ## Check list
-'''Shell
+```Shell
 check DATA_DIR in '/lib/model/utils/config.py'
-'''
+```
 
 ## Supervised learning
 ```Shell
